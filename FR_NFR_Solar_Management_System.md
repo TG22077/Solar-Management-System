@@ -1,6 +1,6 @@
 Solar Management System - Software Requirements
 
-Functional Requirements
+**Functional Requirements**
 a) Login & User Management
 1. The system shall allow users to log in using a valid username and password.
 2. The system shall show different features depending on the user’s role (Admin / Customer).
@@ -21,7 +21,7 @@ c) Energy Monitoring & Data Management
 13. The system shall allow admin to export customer, energy, or service data in CSV or PDF formats.
 14. System shall allow admin to back up system data.
  
-Non-Functional Requirements
+**Non-Functional Requirements**
 a) Performance
 1. The system should respond to user actions (login, viewing dashboard, generating reports) within 2 seconds under normal usage.
 2. Energy monitoring data updates and dashboard refreshes should occur within 5 seconds.
@@ -48,3 +48,4 @@ f) Maintainability
 
 g) Compatibility
 13. The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
