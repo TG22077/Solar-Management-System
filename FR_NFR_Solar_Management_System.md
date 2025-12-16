@@ -1,5 +1,17 @@
 Solar Management System - Software Requirements
 
+Company name	: Helio Tech Sdn. Bhd. 
+
+Product name		: Helio Link 360 (Solar Track Management System) 
+
+Team Members: 
+
+Project Manager	: Gan Wei Kee 
+
+Software Developer	: Leong Yong Hao 
+
+Database engineer 	: Chong Kian Yi 
+
 ** Functional Requirements **
 
 
@@ -84,6 +96,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
