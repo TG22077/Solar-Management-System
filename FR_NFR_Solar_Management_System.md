@@ -12,6 +12,7 @@ Software Developer	: Leong Yong Hao
 
 Database engineer 	: Chong Kian Yi 
 
+
 ** Functional Requirements **
 
 
@@ -96,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
