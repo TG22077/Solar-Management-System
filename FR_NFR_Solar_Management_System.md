@@ -1,4 +1,4 @@
-Solar Management System - Software Requirements
+**Software Requirements**
 
 Company name	: Helio Tech Sdn. Bhd. 
 
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
