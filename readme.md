@@ -72,7 +72,7 @@ c)	Availability / Reliability
 
 d)	Security
 
-6.	including those linked to Google, Facebook, or phone number OTPs, must be securely encrypted and stored.
+6.	Including those linked to Google, Facebook, or phone number OTPs, must be securely encrypted and stored.
 7.	Only authorized roles (Admin / Customer) can access their respective features.
 8.	System shall implement session timeout after 15 minutes of inactivity.
 9.	All changes to data (customer info, energy records, maintenance records) must be logged for audit purposes.
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
