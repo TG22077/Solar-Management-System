@@ -13,7 +13,7 @@ Software Developer	: Leong Yong Hao
 Database engineer 	: Chong Kian Yi 
 
 
-** Functional Requirements **
+**Functional Requirements**
 
 
 a)	Login and User Management
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
