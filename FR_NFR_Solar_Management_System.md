@@ -28,6 +28,8 @@ c)	Energy Monitoring & Data Management
 14.	The system shall allow admin to export customer, energy, or service data in CSV or PDF formats.
 15.	System shall allow admin to back up system data.
  
+
+
 **Non-Functional Requirements**
 
 a)	Performance
@@ -71,4 +73,5 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
