@@ -2,7 +2,9 @@ Solar Management System - Software Requirements
 
 ** Functional Requirements **
 
+
 a)	Login and User Management
+
 
 1.	The system shall allow users to log in using a valid username and password.
 2.	The system shall show different features depending on the user’s role (Admin / Customer).
@@ -12,6 +14,7 @@ a)	Login and User Management
 
 b)	Customer Management
 
+
 5.	The system shall allow admin to create new customer profiles with contact and installation information.
 6.	The system shall allow admin to update customer details when needed.
 7.	The system shall allow admin to search and filter customers by name, phone, address, or customer ID.
@@ -20,6 +23,7 @@ b)	Customer Management
 
 
 c)	Energy Monitoring and Data Management
+
 
 10.	The system shall allow admin to enter daily solar energy production for each customer.
 11.	The system shall record energy consumption for each installation site including location and weather information.
@@ -32,10 +36,12 @@ c)	Energy Monitoring and Data Management
 
 ** Non-Functional Requirements **
 
+
 a)	Performance
 
 1.	The system should respond to user actions (login, viewing dashboard, generating reports) within 2 seconds under normal usage.
 2.	Energy monitoring data updates and dashboard refreshes should occur within 5 seconds.
+
 
 
 b)	Scalability
@@ -43,10 +49,12 @@ b)	Scalability
 3.	The system must support at least 5,000 active customers and 100 concurrent admin logins without slowdowns.
 
 
+
 c)	Availability / Reliability
 
 4.	The system must be available at least 99.9% annually.
 5.	Data should be preserved and remain accurate even during network interruptions or system crashes.
+
 
 
 d)	Security
@@ -57,6 +65,7 @@ d)	Security
 9.	All changes to data (customer info, energy records, maintenance records) must be logged for audit purposes.
 
 
+
 e)	Usability
 
 10.	The interface shall allow users to perform key tasks within 3 clicks.
@@ -65,14 +74,17 @@ e)	Usability
 13.	Location, weather info, energy data and maintenance/installation status and details should be displayed clearly in dashboards and reports.
 
 
+
 f)	Maintainability
 
 14.	Updates to software should not disrupt ongoing energy monitoring.
 
 
+
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
