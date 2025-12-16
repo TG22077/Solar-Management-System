@@ -2,7 +2,7 @@ Solar Management System - Software Requirements
 
 ** Functional Requirements **
 
-a)	Login & User Management
+a)	Login and User Management
 
 1.	The system shall allow users to log in using a valid username and password.
 2.	The system shall show different features depending on the user’s role (Admin / Customer).
@@ -73,6 +73,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
