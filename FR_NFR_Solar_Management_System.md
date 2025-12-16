@@ -28,23 +28,23 @@ a)	Login and User Management
 b)	Customer Management
 
 
-5.	The system shall allow admin to create new customer profiles with contact and installation information.
-6.	The system shall allow admin to update customer details when needed.
-7.	The system shall allow admin to search and filter customers by name, phone, address, or customer ID.
-8.	The system shall allow customers to view their energy usage summary.
-9.	The system shall allow customers to view past installation and maintenance history including status (Pending / Completed) and detailed descriptions of each task.
+6.	The system shall allow admin to create new customer profiles with contact and installation information.
+7.	The system shall allow admin to update customer details when needed.
+8.	The system shall allow admin to search and filter customers by name, phone, address, or customer ID.
+9.	The system shall allow customers to view their energy usage summary.
+10.	The system shall allow customers to view past installation and maintenance history including status (Pending / Completed) and detailed descriptions of each task.
 
 
 c)	Energy Monitoring and Data Management
 
 
-10.	The system shall allow admin to enter daily solar energy production for each customer.
-11.	The system shall record energy consumption for each installation site including location and weather information.
-12.	The system shall allow admin to record installation and maintenance tasks, including dates, technician name, status (Pending/Completed) and detailed task descriptions.
-13.	The system shall generate daily, weekly, monthly and yearly energy performance reports.
-14.	The system shall allow admin to export customer, energy, or service data in CSV or PDF formats.
-15.	System shall allow admin to back up system data.
-16. The system shall monitor the energy data in real time mode.
+11.	The system shall allow admin to enter daily solar energy production for each customer.
+12.	The system shall record energy consumption for each installation site including location and weather information.
+13.	The system shall allow admin to record installation and maintenance tasks, including dates, technician name, status (Pending/Completed) and detailed task descriptions.
+14.	The system shall generate daily, weekly, monthly and yearly energy performance reports.
+15.	The system shall allow admin to export customer, energy, or service data in CSV or PDF formats.
+16.	System shall allow admin to back up system data.
+17. The system shall monitor the energy data in real time mode.
 
 
 ** Non-Functional Requirements **
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
