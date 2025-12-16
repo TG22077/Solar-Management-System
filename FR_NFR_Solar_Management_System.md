@@ -1,6 +1,6 @@
 Solar Management System - Software Requirements
 
-**Functional Requirements**
+** Functional Requirements **
 
 a)	Login & User Management
 
@@ -30,7 +30,7 @@ c)	Energy Monitoring & Data Management
  
 
 
-**Non-Functional Requirements**
+** Non-Functional Requirements **
 
 a)	Performance
 
@@ -73,5 +73,6 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
