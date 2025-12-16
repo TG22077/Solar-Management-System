@@ -19,7 +19,7 @@ b)	Customer Management
 9.	The system shall allow customers to view past installation and maintenance history including status (Pending / Completed) and detailed descriptions of each task.
 
 
-c)	Energy Monitoring & Data Management
+c)	Energy Monitoring and Data Management
 
 10.	The system shall allow admin to enter daily solar energy production for each customer.
 11.	The system shall record energy consumption for each installation site including location and weather information.
@@ -73,6 +73,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
