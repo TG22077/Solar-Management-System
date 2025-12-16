@@ -23,7 +23,7 @@ a)	Login and User Management
 2.	The system shall show different features depending on the user’s role (Admin / Customer).
 3.	The system shall allow users to register or log in using Google account, Facebook account, or phone number (OTP verification).
 4.	The system shall allow administrators to create, edit, or delete user accounts.
-
+5.  The login system should auto detect the type of account such as admin or customer
 
 b)	Customer Management
 
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
