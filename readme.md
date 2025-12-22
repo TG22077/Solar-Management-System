@@ -47,7 +47,7 @@ c)	Energy Monitoring and Data Management
 17. The system shall monitor the energy data in real time mode.
 
 
-** Non-Functional Requirements **
+**Non-Functional Requirements**
 
 
 a)	Performance
@@ -97,6 +97,7 @@ f)	Maintainability
 g)	Compatibility
 
 15.	The system should work on major browsers (Chrome, Edge) and devices (desktop, tablet, mobile).
+
 
 
 
